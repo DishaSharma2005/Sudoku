@@ -1,5 +1,5 @@
-# Sukudo
-Sukudo is a strategic puzzle game that challenges logical thinking and pattern recognition.
+# Sudoku
+Sudoku is a strategic puzzle game that challenges logical thinking and pattern recognition.
 This is a Sudoku Solver written in Java that takes a 9×9 Sudoku grid as input and solves it using backtracking. It allows users to manually input numbers, where 0 represents an empty cell, and then provides the solved Sudoku grid if a solution exists.
 
 ## Features
